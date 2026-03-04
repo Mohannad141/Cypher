@@ -24,7 +24,7 @@ g++ -o cypher cypher.cpp -std=c++11
 ```
 3️⃣ Run the program
 ```
-./cipher
+./cypher
 ```
 ---
 ## How to Use
