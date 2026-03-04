@@ -14,17 +14,17 @@ This program implements three **encryption & decryption algorithms** in C++:
 ##  Setup & Compilation  
 ### 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/Mohannad141/My-Work/tree/main/Cyber%20Security%20related
-cd Ciphering
+git clone https://github.com/Mohannad141/Cypher
+cd Cypher
 ```
 
 2️⃣ Compile the program
 ```
-g++ -o cipher_program cypher.cpp -std=c++11
+g++ -o cypher cypher.cpp -std=c++11
 ```
 3️⃣ Run the program
 ```
-./cipher_program
+./cipher
 ```
 ---
 ## How to Use
